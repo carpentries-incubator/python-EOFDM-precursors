@@ -36,6 +36,7 @@ Current maintainers of this lesson are
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Citation
+[![DOI](https://zenodo.org/badge/337807002.svg)](https://zenodo.org/badge/latestdoi/337807002)
 
 To cite this lesson, please consult with [CITATION](CITATION)
 
