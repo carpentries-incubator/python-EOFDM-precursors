@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Pelham
+    given-names: Jonathan Gerald
+    orcid: https://orcid.org/0000-0002-1303-5988
+title: "Detecting EOFDM precursors using Python"
+version: 0.1
+doi: 10.5281/zenodo.4555544
+date-released: 2021-02-22
